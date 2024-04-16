@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # mongodb-setup
 mongodb setup in docker
-=======
 # 執行 mongodb 與 express
 
 ```
@@ -116,4 +114,3 @@ mongodb setup in docker
         ]
     })
 ```
->>>>>>> master
